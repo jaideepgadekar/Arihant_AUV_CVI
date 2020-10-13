@@ -1,2 +1,3 @@
 # Arihant_AUV_CVI
-please go through the 
+In this 
+please go through the CVI-Miniproject.pdf file for more explanation.
